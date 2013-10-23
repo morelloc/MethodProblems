@@ -20,10 +20,15 @@ namespace Chat_A_While
             Console.WriteLine("Input length of call in minutes");
             Minutes = Console.ReadLine();
 
-            
-            
-
-
+            for (int i = 0; i < AreaCode.Length; i++)
+            {
+                if (Area == AreaCode[i].ToString())
+                {
+                    Price = Rate[i] * Convert.ToInt32(Minutes);
+                    Console.WriteLine("This call costs: $" + Price);
+                }
+                break;
+            }
 
         }
     }

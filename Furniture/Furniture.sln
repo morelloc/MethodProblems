@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZips", "CheckZips\Chec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat-A-While", "Chat-A-While\Chat-A-While.csproj", "{8364DA87-EEF7-4DEE-8B43-2A06F54555C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commission", "Commission\Commission.csproj", "{FBA7EA8A-9153-4A04-A7E0-21067BEBAC5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram", "Monogram\Monogram.csproj", "{802325ED-EBDB-4720-A9C1-F72D1505F5A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +29,14 @@ Global
 		{8364DA87-EEF7-4DEE-8B43-2A06F54555C6}.Debug|x86.Build.0 = Debug|x86
 		{8364DA87-EEF7-4DEE-8B43-2A06F54555C6}.Release|x86.ActiveCfg = Release|x86
 		{8364DA87-EEF7-4DEE-8B43-2A06F54555C6}.Release|x86.Build.0 = Release|x86
+		{FBA7EA8A-9153-4A04-A7E0-21067BEBAC5C}.Debug|x86.ActiveCfg = Debug|x86
+		{FBA7EA8A-9153-4A04-A7E0-21067BEBAC5C}.Debug|x86.Build.0 = Debug|x86
+		{FBA7EA8A-9153-4A04-A7E0-21067BEBAC5C}.Release|x86.ActiveCfg = Release|x86
+		{FBA7EA8A-9153-4A04-A7E0-21067BEBAC5C}.Release|x86.Build.0 = Release|x86
+		{802325ED-EBDB-4720-A9C1-F72D1505F5A4}.Debug|x86.ActiveCfg = Debug|x86
+		{802325ED-EBDB-4720-A9C1-F72D1505F5A4}.Debug|x86.Build.0 = Debug|x86
+		{802325ED-EBDB-4720-A9C1-F72D1505F5A4}.Release|x86.ActiveCfg = Release|x86
+		{802325ED-EBDB-4720-A9C1-F72D1505F5A4}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
