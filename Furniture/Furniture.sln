@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commission", "Commission\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram", "Monogram\Monogram.csproj", "{802325ED-EBDB-4720-A9C1-F72D1505F5A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponent", "Exponent\Exponent.csproj", "{8FC5BAEA-CAC4-40AC-9D06-BE44CFEAF6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{F21BDFCC-7AF2-4350-8CDB-1C8F37D9D34C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +41,14 @@ Global
 		{802325ED-EBDB-4720-A9C1-F72D1505F5A4}.Debug|x86.Build.0 = Debug|x86
 		{802325ED-EBDB-4720-A9C1-F72D1505F5A4}.Release|x86.ActiveCfg = Release|x86
 		{802325ED-EBDB-4720-A9C1-F72D1505F5A4}.Release|x86.Build.0 = Release|x86
+		{8FC5BAEA-CAC4-40AC-9D06-BE44CFEAF6AA}.Debug|x86.ActiveCfg = Debug|x86
+		{8FC5BAEA-CAC4-40AC-9D06-BE44CFEAF6AA}.Debug|x86.Build.0 = Debug|x86
+		{8FC5BAEA-CAC4-40AC-9D06-BE44CFEAF6AA}.Release|x86.ActiveCfg = Release|x86
+		{8FC5BAEA-CAC4-40AC-9D06-BE44CFEAF6AA}.Release|x86.Build.0 = Release|x86
+		{F21BDFCC-7AF2-4350-8CDB-1C8F37D9D34C}.Debug|x86.ActiveCfg = Debug|x86
+		{F21BDFCC-7AF2-4350-8CDB-1C8F37D9D34C}.Debug|x86.Build.0 = Debug|x86
+		{F21BDFCC-7AF2-4350-8CDB-1C8F37D9D34C}.Release|x86.ActiveCfg = Release|x86
+		{F21BDFCC-7AF2-4350-8CDB-1C8F37D9D34C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
